@@ -4,7 +4,7 @@ const port = 8989;
 
 // เส้นทางหลัก
 app.get('/', (req, res) => {
-  res.send('Hello, this is the backend!');
+  res.send('Welcome to NodejsTest');
 });
 
 // เริ่มต้นเซิร์ฟเวอร์
